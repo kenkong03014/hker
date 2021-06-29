@@ -30,6 +30,12 @@ Welcome to my github account 😉
 
 <img align="left" alt="SQL" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>
 
+<img align="left" alt="Golang" width="40px" src="https://blog.golang.org/go-brand/Go-Logo/SVG/Go-Logo_Blue.svg"/>
+
+<img align="left" alt="Prolog" width="40px" src="https://www.swi-prolog.org/icons/swipl.png"/>
+
+<img align="left" alt="Lisp" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Lisp_logo.svg"/>
+
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="left" alt="SQL" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" />
