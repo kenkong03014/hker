@@ -1,16 +1,30 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
+import { FormsModule } from '@angular/forms';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
+import { TextcomponentComponent } from './textcomponent/textcomponent.component';
+import { ImagecomponentComponent } from './imagecomponent/imagecomponent.component';
+import { EmpInfoComponent } from './emp-info/emp-info.component';
+import { FormComponentComponent } from './form-component/form-component.component';
+import { EInfoComponent } from './e-info/e-info.component';
+import { ComponentsComponent } from './Components/components.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    TextcomponentComponent,
+    ImagecomponentComponent,
+    EmpInfoComponent,
+    FormComponentComponent,
+    EInfoComponent,
+    ComponentsComponent
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]
