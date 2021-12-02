@@ -9,7 +9,6 @@ import { ImagecomponentComponent } from './imagecomponent/imagecomponent.compone
 import { EmpInfoComponent } from './emp-info/emp-info.component';
 import { FormComponentComponent } from './form-component/form-component.component';
 import { EInfoComponent } from './e-info/e-info.component';
-import { ComponentsComponent } from './Components/components.component';
 
 @NgModule({
   declarations: [
@@ -19,7 +18,6 @@ import { ComponentsComponent } from './Components/components.component';
     EmpInfoComponent,
     FormComponentComponent,
     EInfoComponent,
-    ComponentsComponent
   ],
   imports: [
     BrowserModule,
